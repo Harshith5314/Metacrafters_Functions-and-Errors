@@ -2,7 +2,7 @@
 
 
 
-#SchoolGradingSystem Smart Contract
+## SchoolGradingSystem Smart Contract
 
 The SchoolGradingSystem smart contract manages student information and grades on the Ethereum blockchain. It provides functionalities to add students, set grades, retrieve grades, and remove students (owner-only).
 
