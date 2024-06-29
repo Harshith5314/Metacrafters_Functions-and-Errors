@@ -6,21 +6,21 @@
 
 The SchoolGradingSystem smart contract manages student information and grades on the Ethereum blockchain. It provides functionalities to add students, set grades, retrieve grades, and remove students (owner-only).
 
-Features
+## Features
 
 Add Student: Add a new student with their name.
 Set Grade: Set the grade for a student (owner-only).
 Get Grade: Retrieve the grade of the student.
 Remove Student: Remove a student (owner-only).
 
-Requirements
+## Requirements
 
 Solidity ^0.8.0: Ensure your Ethereum development environment supports Solidity version 0.8.0 or higher.
 Ethereum Development Environment: Use Remix, Truffle, Hardhat, or any other suitable Ethereum development environment for compiling and deploying the contract.
 Getting Started
 To deploy and interact with the SchoolGradingSystem contract:
 
-Compile and Deploy:
+## Compile and Deploy:
 
 Use Remix or your preferred Ethereum development environment to compile and deploy the contract.
 Ensure you have an Ethereum account set up to deploy the contract.
